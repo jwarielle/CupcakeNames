@@ -1,1 +1,1 @@
-https://img.shields.io/npm/v/@jwarielle/cupcakenames
+![npm (scoped)](https://img.shields.io/npm/v/@jwarielle/cupcakenames)
