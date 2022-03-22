@@ -8,4 +8,5 @@ Generates cupcake names.
 # Usage
 `const cupcakeNames = require("@jwarielle/cupcakenames");`
 
-`// More to come...`
+`let myCupcakeName = cupcakeNames();`
+`//=> "Lemon Surprise"`
