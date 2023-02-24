@@ -8,7 +8,7 @@ This is am npm module that generates cupcake names!
 ## How to Install
 `npm install @jwarielle/cupcakenames`
 
-# How to Use this Module
+## How to Use this Module
 `const cupcakeNames = require("@jwarielle/cupcakenames");`
 
 `let myCupcakeName = cupcakeNames();`
